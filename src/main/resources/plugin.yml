@@ -4,13 +4,3 @@ main: com.example.pluginultra.PluginUltra
 api-version: '26.2'
 description: A minimal Paper plugin for Minecraft 26.2
 author: tacky
-commands:
-  ultra:
-    description: PluginUltra test command
-    usage: /<command> [ping|heal|help]
-    permission: pluginultra.command.ultra
-    permission-message: このコマンドを実行する権限がありません。
-permissions:
-  pluginultra.command.ultra:
-    description: Allows use of /ultra command
-    default: true
