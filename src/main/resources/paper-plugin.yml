@@ -1,0 +1,6 @@
+name: PluginUltra
+version: '${project.version}'
+main: com.example.pluginultra.PluginUltra
+api-version: '26.2'
+description: A minimal Paper plugin for Minecraft 26.2
+author: tacky
